@@ -24,5 +24,3 @@ Contributions are what make the open source community such an amazing place to l
 ## Contact
 
 Abdullah Zunorain - [abdullahzunorain2@gmail.com](mailto:abdullahzunorain2@gmail.com)
-
-Project Link: [https://github.com/your-username/binary-text-classification](https://github.com/your-username/binary-text-classification)
